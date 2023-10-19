@@ -1,0 +1,128 @@
+body {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.container {
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 98px;
+    background-color: #fcecd8;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 40px;
+    align-content: flex-start;
+}
+
+.span12 {
+    width: 100%;
+    height: 48px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0px 8px;
+}
+
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 498px;
+    background-color: #fcecd8;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 40px;
+    align-content: flex-start;
+}
+
+section .row01 {
+    display: flex;
+    width: 100%;
+}
+
+section .row01 .span04 {
+    width: 30%;
+    height: 448px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    margin-left: 8px;
+    text-align: center;
+    line-height: 50px;
+}
+
+section .row01 .span08 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70%;
+    height: 448px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 50px;
+    align-content: flex-start;
+    margin-right: 8px;
+    /* padding: 0px 15px; */
+}
+
+section .row01 .span08 .row02 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 194px;
+    background-color: #fcecd8;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 40px;
+    align-content: flex-start;
+    margin: 0px 5px;
+    /* padding: 0px 15px; */
+}
+
+section .row01 .span08 .row02 .row03 {
+    display: flex;
+    width: 100%;
+}
+
+section .row01 .span08 .row02 .row03 .span04-01 {
+    width: 50%;
+    height: 146px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+section .row01 .span08 .row02 .row03 .span04-02 {
+    width: 50%;
+    height: 146px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+section .row01 .span08 .row02 .row03 .span08 {
+    width: 100%;
+    height: 146px;
+    background-color: #c5e8f3;
+    border: 1px solid #c1c0c0;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    margin: 0px 5px;
+}
